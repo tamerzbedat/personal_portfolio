@@ -2,4 +2,4 @@ this portfolio page is a part of freecodecamp responsive web design projects sec
 
 you can see the website live:
 
-### [Here]https://tamerzbedat.github.io/personal_portfolio/
+### [Here](https://tamerzbedat.github.io/personal_portfolio/)
